@@ -1,0 +1,7 @@
+# Dataset exceeds GitHub's 100 MB per-file limit; keep the local copy only.
+profiles.csv
+
+# Generated notebook and local review artifacts.
+.ipynb_checkpoints/
+.codex-review/
+.codex-presentation-review/
